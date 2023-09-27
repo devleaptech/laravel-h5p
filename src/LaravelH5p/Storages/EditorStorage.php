@@ -10,14 +10,14 @@
  *
  */
 
-namespace Hareom284\LaravelH5p\Storages;
+namespace Devleaptech\LaravelH5p\Storages;
 
 use App;
 use DB;
 use H5peditorStorage;
-use Hareom284\LaravelH5p\Eloquents\H5pLibrary;
-use Hareom284\LaravelH5p\Eloquents\H5pTmpfile;
-use Hareom284\LaravelH5p\Repositories\LaravelH5pRepository;
+use Devleaptech\LaravelH5p\Eloquents\H5pLibrary;
+use Devleaptech\LaravelH5p\Eloquents\H5pTmpfile;
+use Devleaptech\LaravelH5p\Repositories\LaravelH5pRepository;
 
 /**
  * Description of H5pStorage.

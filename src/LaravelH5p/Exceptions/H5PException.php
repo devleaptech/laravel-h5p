@@ -10,7 +10,7 @@
  *
  */
 
-namespace Hareom284\LaravelH5p\Exceptions;
+namespace Devleaptech\LaravelH5p\Exceptions;
 
 use Exception;
 

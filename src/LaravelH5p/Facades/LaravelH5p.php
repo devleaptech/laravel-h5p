@@ -1,6 +1,6 @@
 <?php
 
-namespace Hareom284\LaravelH5p\Facades;
+namespace Devleaptech\LaravelH5p\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

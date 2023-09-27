@@ -1,6 +1,6 @@
 <?php
 
-namespace Hareom284\LaravelH5p\Eloquents;
+namespace Devleaptech\LaravelH5p\Eloquents;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;

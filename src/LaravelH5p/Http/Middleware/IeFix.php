@@ -1,6 +1,6 @@
 <?php
 
-namespace Hareom284\LaravelH5p\Http\Middleware;
+namespace Devleaptech\LaravelH5p\Http\Middleware;
 
 use Closure;
 
